@@ -20,7 +20,7 @@ Je maakt elke week handmatig offertes. Of je kopieert elke maand dezelfde mail. 
 
 Dat soort werk kan een computer doen. Ik bouw het systeem dat dat voor je afhandelt — zodat jij je tijd ergens anders aan kunt besteden.
 
-**Voorbeeld:** een trainingsbureau spreekt offertes in als voicememo. Die worden automatisch omgezet naar een kant-en-klaar document en na goedkeuring verstuurd als PDF. Geen getik, geen kopiëren.
+**Voorbeeld:** een trainingsbureau spreekt offertes in via hun telefoon. Die worden automatisch omgezet naar een kant-en-klaar Word-document, ter review aangeboden in een webinterface, en na goedkeuring verstuurd als PDF. Geen getik, geen kopiëren.
 
 **Geschikt voor:** iedereen die merkt dat ze te veel tijd kwijt zijn aan hetzelfde werk.
 
@@ -67,6 +67,18 @@ Een vorige freelancer is gestopt. Iemand heeft iets gebouwd maar niemand begrijp
 Ik lees me in, kijk wat er al staat, en bouw verder. Zonder opnieuw beginnen.
 
 **Geschikt voor:** bedrijven met een systeem dat vastzit of een project dat blijft liggen.
+
+---
+
+## 6. AI rechtstreeks aan je bedrijf koppelen
+
+Je hebt gehoord over AI. Misschien gebruik je ChatGPT al voor losse vragen. Maar wat als AI niet alleen vragen beantwoordt, maar ook echt iets doet in jouw systemen — een offerte opstellen, een klant opzoeken, een taak aanmaken?
+
+Ik koppel AI direct aan de tools die jij al gebruikt. Geen aparte interface, geen extra stappen. Je typt wat je wil, en het gebeurt.
+
+**Voorbeeld:** je zegt tegen Claude "maak een offerte voor de training van vorige week bij Bakkerij De Wit" — en het systeem haalt de klantgegevens op, vult het sjabloon in, en legt de offerte klaar voor review. Jij hoeft alleen nog op verzenden te klikken.
+
+**Geschikt voor:** bedrijven die AI willen gebruiken zonder er een apart systeem naast te bouwen.
 
 ---
 
