@@ -70,15 +70,15 @@ Ik lees me in, kijk wat er al staat, en bouw verder. Zonder opnieuw beginnen.
 
 ---
 
-## 6. AI rechtstreeks aan je bedrijf koppelen
+## 6. Een eigen app koppelen aan Claude of ChatGPT
 
-Je hebt gehoord over AI. Misschien gebruik je ChatGPT al voor losse vragen. Maar wat als AI niet alleen vragen beantwoordt, maar ook echt iets doet in jouw systemen — een offerte opstellen, een klant opzoeken, een taak aanmaken?
+Je gebruikt Claude of ChatGPT al voor losse vragen. Maar stel dat je AI ook iets kon laten *doen* — een offerte opstellen vanuit jouw eigen gegevens, een klant opzoeken, een document klaarzetten.
 
-Ik koppel AI direct aan de tools die jij al gebruikt. Geen aparte interface, geen extra stappen. Je typt wat je wil, en het gebeurt.
+Ik bouw daarvoor een kleine, op-maat app. Geen toegang tot je hele bedrijf — alleen precies wat jij wil dat het doet. Die app koppel ik aan jouw Claude of ChatGPT, zodat je gewoon kunt typen wat je wil.
 
-**Voorbeeld:** je zegt tegen Claude "maak een offerte voor de training van vorige week bij Bakkerij De Wit" — en het systeem haalt de klantgegevens op, vult het sjabloon in, en legt de offerte klaar voor review. Jij hoeft alleen nog op verzenden te klikken.
+**Voorbeeld:** je zegt tegen Claude "maak een offerte voor de training van vorige week bij Bakkerij De Wit" — en de app haalt de klantgegevens op, vult het sjabloon in, en legt de offerte klaar voor review. Jij hoeft alleen nog op verzenden te klikken.
 
-**Geschikt voor:** bedrijven die AI willen gebruiken zonder er een apart systeem naast te bouwen.
+**Geschikt voor:** bedrijven die AI willen laten meewerken in hun eigen workflow, zonder alles uit handen te geven.
 
 ---
 
