@@ -2,58 +2,74 @@
 source: aveleijn-elearning, offerteautomator
 updated: 2026-04-05
 category: diensten
-doelgroep: directeuren, beslissers, niet-technisch
+doelgroep: MKB, zzp, beslissers zonder IT-afdeling
+slogan: De freelance developer voor als je geen IT-afdeling hebt.
 ---
 
-# Wat kan AI Sultan voor jou doen?
+# De freelance developer voor als je geen IT-afdeling hebt.
 
-Jij hebt een idee. Of een probleem. Of allebei.
-Ik bouw het — snel, zonder gedoe, met AI als gereedschap.
+Je hebt geen IT-afdeling. Misschien één of twee mensen, misschien alleen jijzelf. Toch loop je tegen dingen aan waarbij je denkt: dit zou toch geautomatiseerd moeten kunnen? Of: hier moet toch een simpelere manier voor zijn?
 
----
-
-## Een online leeromgeving voor je medewerkers
-
-Denk aan een cursus die je medewerkers op hun eigen tempo doorlopen — op de computer, tablet of telefoon. Met video's, reflectievragen en een voortgangsbalk. Gekoppeld aan het systeem dat jullie al gebruiken.
-
-**Aveleijn** (zorgorganisatie, ~2.000 medewerkers) gebruikt dit nu voor een cursus over omgaan met spanningsvolle situaties op de werkvloer.
-
-Wat je krijgt: een werkende leeromgeving, klaar voor gebruik, in de huisstijl van jouw organisatie.
+Dat is precies waar ik voor ben. Ik ben Ali — freelance developer. Ik bouw wat jij nodig hebt, zonder groot bureau, zonder maandenlange trajecten.
 
 ---
 
-## Iets bouwen in dagen, niet maanden
+## 1. Terugkerende taken automatiseren
 
-Ik werk met AI als co-ontwikkelaar. Daardoor gaat bouwen veel sneller dan bij een traditioneel bureau.
+Je maakt elke week handmatig offertes. Of je kopieert elke maand dezelfde mail. Of je voert steeds dezelfde gegevens in op drie verschillende plekken.
 
-Een eerste werkend prototype? Dat staat er vaak binnen één of twee werkdagen.
+Dat soort werk kan een computer doen. Ik bouw het systeem dat dat voor je afhandelt — zodat jij je tijd ergens anders aan kunt besteden.
 
-Goed voor: interne tools, een nieuwe website, een snelle demo voor een subsidieaanvraag of bestuurspresentatie.
+**Voorbeeld:** een trainingsbureau spreekt offertes in als voicememo. Die worden automatisch omgezet naar een kant-en-klaar document en na goedkeuring verstuurd als PDF. Geen getik, geen kopiëren.
 
----
-
-## Gebruikers betrekken bij de ontwikkeling
-
-Wil je weten of jouw medewerkers of klanten iets begrijpen voordat je het uitrolt? Ik bouw systemen waarmee je feedback verzamelt, sorteert en omzet in concrete verbeteringen — zonder ellenlange vergaderingen.
+**Geschikt voor:** iedereen die merkt dat ze te veel tijd kwijt zijn aan hetzelfde werk.
 
 ---
 
-## Je offertes en klanten automatisch bijhouden
+## 2. Een tool die precies doet wat jij nodig hebt
 
-Geen gedoe meer met Word-bestanden en losse mails. Ik bouw een tool waar je in een paar klikken een offerte maakt, verstuurt en bijhoudt — in de stijl van jouw bedrijf.
+Standaardsoftware doet 80% van wat je nodig hebt — maar die andere 20% ontbreekt altijd. En je betaalt voor functies die je nooit gebruikt.
 
-Wil je na een gesprek direct een offerte klaar hebben? Ik koppel het systeem aan je vergadernotities: één knop, en de offerte staat klaar.
+Ik bouw kleine, gerichte tools die precies jouw werkwijze volgen. Geen abonnement, geen overbodige knoppen.
 
-**Een trainer** gebruikt dit nu voor offertes aan gemeenten en zorginstellingen — van gespreksaantekening naar professioneel document in minuten.
+**Voorbeeld:** een planner die automatisch trainingen synchroniseert naar Google Agenda. Of een simpel dashboard waarop klanten hun eigen voortgang bijhouden.
+
+**Geschikt voor:** bedrijven met een eigen werkwijze die nergens in een standaardpakket past.
 
 ---
 
-## Van chaos naar werkend systeem
+## 3. Een website of webapplicatie die ook echt werkt
 
-Heb je iets dat half werkt, of een leverancier die afhaakt? Ik lees me in, kijk wat er al staat, en bouw verder zonder opnieuw te beginnen.
+Veel kleine bedrijven hebben een website die er wel uitziet maar verder niks doet. Geen werkend contactformulier, geen manier om iets te boeken of te kopen, geen koppeling met wat je al gebruikt.
+
+Ik bouw websites en webapps die iets toevoegen aan je bedrijf — niet alleen een digitaal visitekaartje.
+
+**Geschikt voor:** zzp'ers en kleine bedrijven die online zichtbaar willen zijn én iets willen kunnen aanbieden.
+
+---
+
+## 4. Kennis of training digitaal aanbieden
+
+Jij weet veel. Maar je kunt niet overal tegelijk zijn. Met een online cursus bereik je meer mensen, zonder dat je steeds opnieuw hetzelfde verhaal hoeft te doen.
+
+Ik bouw leeromgevingen die passen bij jouw organisatie — in jouw huisstijl, gekoppeld aan de systemen die jullie al gebruiken.
+
+**Voorbeeld:** een zorgorganisatie met 2.000 medewerkers gebruikt een online cursus die medewerkers op eigen tempo doorlopen, met video's en reflectievragen.
+
+**Geschikt voor:** trainers, consultants, zorgorganisaties — iedereen die kennis wil overdragen op schaal.
+
+---
+
+## 5. Iets dat half werkt, afmaken
+
+Een vorige freelancer is gestopt. Iemand heeft iets gebouwd maar niemand begrijpt er meer van. Of je gebruikt iets dat eigenlijk niet meer voldoet maar je weet niet hoe je ervan af moet.
+
+Ik lees me in, kijk wat er al staat, en bouw verder. Zonder opnieuw beginnen.
+
+**Geschikt voor:** bedrijven met een systeem dat vastzit of een project dat blijft liggen.
 
 ---
 
 ## Contact
 
-[aisultan.nl](https://aisultan.nl)
+Heb je iets concreets in gedachten, of wil je eerst even sparren? Stuur een mail naar ali@aisultan.nl — ik reageer binnen een dag.
