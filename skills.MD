@@ -1,6 +1,6 @@
 
-source: aveleijn-elearning project
-updated: 2026-04-02
+source: aveleijn-elearning, offerteautomator
+updated: 2026-04-05
 category: skills
 ---
 
@@ -8,10 +8,12 @@ category: skills
 
 ## Full-Stack Web Development
 - **Node.js / Express.js** — server routes, middleware, REST APIs, LTI 1.3 (ltijs)
+- **Vue.js** — SPA met Vue Router, component-gebaseerde UI, status-workflows
 - **SQLite + Sequelize** — schema design, multi-database setups (voortgang + quiz apart)
 - **HTML / CSS / JavaScript (vanilla)** — no framework dependency, production-ready
 - **Frontend animatie** — Flubber.js (SVG morphing), CSS keyframes, scroll-gebaseerde triggers
 - **Vimeo Player API** — embed, autoplay, ended-events, COEP-header workarounds
+- **DOCX-generatie** — dynamische offerte-documenten via sjablonen
 
 ## DevOps & Deployment
 - **DigitalOcean VPS** — setup, SSH-toegang, nginx reverse proxy, HTTPS
@@ -27,6 +29,7 @@ category: skills
 
 ## AI-assisted Development
 - **Claude Code (AI Sultan)** — AI-gedreven ontwikkeling: van idee naar productie in één sessie
+- **MCP server ontwikkeling** — Claude direct koppelen aan bedrijfstools (offertes, relaties, workflows)
 - **Fireflies.ai** — vergadertranscripten ophalen, samenvatten, vertalen naar technische taken
 - **Prompt engineering** — complexe taken opdelen, context beheren over meerdere sessies
 
@@ -34,6 +37,12 @@ category: skills
 - **Design systems** — CSS custom properties, typografie-hiërarchie, kleurpalet
 - **Aveleijn huisstijl** — Zilla Slab bold italic titels, Source Sans 3 body, Caveat handschrift
 - **Responsive design** — mobile-first, viewport-gebaseerde layouts
+
+## Bedrijfstools & Automatisering
+- **Offerte-automatisering** — volledige workflow: concept → review → definitief, DOCX-export
+- **Relatiebeheer (CRM-light)** — klanten en contacten koppelen aan projecten en offertes
+- **MCP-integratie** — bedrijfstool direct bedienbaar vanuit Claude Code (geen aparte UI nodig)
+- **Transcriptie → offerte** — Fireflies-vergadering verwerken naar kant-en-klare offerte
 
 ## Projectbeheer (technisch)
 - **Klankbordgroep-processen** — feedback verzamelen, prioriteren, akkoord-systemen bouwen

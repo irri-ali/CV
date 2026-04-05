@@ -1,5 +1,5 @@
 ---
-source: aveleijn-elearning
+source: aveleijn-elearning, offerteautomator
 updated: 2026-04-05
 category: diensten
 doelgroep: directeuren, beslissers, niet-technisch
@@ -35,6 +35,16 @@ Goed voor: interne tools, een nieuwe website, een snelle demo voor een subsidiea
 ## Gebruikers betrekken bij de ontwikkeling
 
 Wil je weten of jouw medewerkers of klanten iets begrijpen voordat je het uitrolt? Ik bouw systemen waarmee je feedback verzamelt, sorteert en omzet in concrete verbeteringen — zonder ellenlange vergaderingen.
+
+---
+
+## Je offertes en klanten automatisch bijhouden
+
+Geen gedoe meer met Word-bestanden en losse mails. Ik bouw een tool waar je in een paar klikken een offerte maakt, verstuurt en bijhoudt — in de stijl van jouw bedrijf.
+
+Wil je na een gesprek direct een offerte klaar hebben? Ik koppel het systeem aan je vergadernotities: één knop, en de offerte staat klaar.
+
+**Een trainer** gebruikt dit nu voor offertes aan gemeenten en zorginstellingen — van gespreksaantekening naar professioneel document in minuten.
 
 ---
 

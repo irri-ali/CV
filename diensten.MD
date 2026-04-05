@@ -1,6 +1,6 @@
 ---
-source: aveleijn-elearning
-updated: 2026-04-02
+source: aveleijn-elearning, offerteautomator
+updated: 2026-04-05
 category: diensten
 ---
 
@@ -59,6 +59,21 @@ Van nul naar productie op een VPS.
 - Monitoring en revert-procedures
 
 **Geschikt voor:** teams zonder dedicated devops
+
+---
+
+## 6. Bedrijfstool op maat (offerte, CRM, workflow)
+Geen generieke software, maar een tool die precies past bij hoe jij werkt.
+
+- Offerte-automatisering: concept → review → definitief → DOCX
+- Relatiebeheer gekoppeld aan projecten en offertes
+- Status-workflows op maat
+- Vergadering (Fireflies) omzetten naar kant-en-klare offerte
+- Koppeling met Claude via MCP: bedienbaar vanuit je AI-assistent
+
+**Geschikt voor:** trainers, coaches, adviseurs, kleine bureaus zonder CRM-budget
+
+**Referentie:** offerteautomator gebouwd voor klant, live op aisultan.nl infrastructuur
 
 ---
 
